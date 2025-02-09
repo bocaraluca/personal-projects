@@ -1,0 +1,15 @@
+C:\Users\raluc\Desktop\C#\X_SI_0\bin\Debug\X_si_0_DB.mdf
+C:\Users\raluc\Desktop\C#\X_SI_0\bin\Debug\X_si_0_DB_log.ldf
+C:\Users\raluc\Desktop\C#\X_SI_0\bin\Debug\X_SI_0.exe.config
+C:\Users\raluc\Desktop\C#\X_SI_0\bin\Debug\X_SI_0.exe
+C:\Users\raluc\Desktop\C#\X_SI_0\bin\Debug\X_SI_0.pdb
+C:\Users\raluc\Desktop\C#\X_SI_0\obj\Debug\X_SI_0.csproj.AssemblyReference.cache
+C:\Users\raluc\Desktop\C#\X_SI_0\obj\Debug\X_SI_0.LoginForm.resources
+C:\Users\raluc\Desktop\C#\X_SI_0\obj\Debug\X_SI_0.Properties.Resources.resources
+C:\Users\raluc\Desktop\C#\X_SI_0\obj\Debug\X_SI_0.csproj.GenerateResource.cache
+C:\Users\raluc\Desktop\C#\X_SI_0\obj\Debug\X_SI_0.csproj.CoreCompileInputs.cache
+C:\Users\raluc\Desktop\C#\X_SI_0\obj\Debug\X_SI_0.exe
+C:\Users\raluc\Desktop\C#\X_SI_0\obj\Debug\X_SI_0.pdb
+C:\Users\raluc\Desktop\C#\X_SI_0\obj\Debug\X_SI_0.X_SI_0Form.resources
+C:\Users\raluc\Desktop\C#\X_SI_0\obj\Debug\X_SI_0.InregistrareForm.resources
+C:\Users\raluc\Desktop\C#\X_SI_0\obj\Debug\X_SI_0.RezultateForm.resources

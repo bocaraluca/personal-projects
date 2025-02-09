@@ -1,0 +1,99 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C# Projects\\X_SI_0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C53EDDBD-0184-4090-A82E-20C80005D1DE}|X_SI_0.csproj|d:\\c# projects\\x_si_0\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C53EDDBD-0184-4090-A82E-20C80005D1DE}|X_SI_0.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C53EDDBD-0184-4090-A82E-20C80005D1DE}|X_SI_0.csproj|D:\\C# Projects\\X_SI_0\\inregistrareform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C53EDDBD-0184-4090-A82E-20C80005D1DE}|X_SI_0.csproj|solutionrelative:inregistrareform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C53EDDBD-0184-4090-A82E-20C80005D1DE}|X_SI_0.csproj|D:\\C# Projects\\X_SI_0\\rezultateform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C53EDDBD-0184-4090-A82E-20C80005D1DE}|X_SI_0.csproj|solutionrelative:rezultateform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C53EDDBD-0184-4090-A82E-20C80005D1DE}|X_SI_0.csproj|D:\\C# Projects\\X_SI_0\\rezultateform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C53EDDBD-0184-4090-A82E-20C80005D1DE}|X_SI_0.csproj|solutionrelative:rezultateform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C53EDDBD-0184-4090-A82E-20C80005D1DE}|X_SI_0.csproj|D:\\C# Projects\\X_SI_0\\x_si_0form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C53EDDBD-0184-4090-A82E-20C80005D1DE}|X_SI_0.csproj|solutionrelative:x_si_0form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "D:\\C# Projects\\X_SI_0\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LoginForm.cs",
+              "ToolTip": "D:\\C# Projects\\X_SI_0\\LoginForm.cs",
+              "RelativeToolTip": "LoginForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T10:23:34.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InregistrareForm.cs",
+              "DocumentMoniker": "D:\\C# Projects\\X_SI_0\\InregistrareForm.cs",
+              "RelativeDocumentMoniker": "InregistrareForm.cs",
+              "ToolTip": "D:\\C# Projects\\X_SI_0\\InregistrareForm.cs",
+              "RelativeToolTip": "InregistrareForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T10:21:50.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RezultateForm.cs [Design]",
+              "DocumentMoniker": "D:\\C# Projects\\X_SI_0\\RezultateForm.cs",
+              "RelativeDocumentMoniker": "RezultateForm.cs",
+              "ToolTip": "D:\\C# PROJECTS\\X_SI_0\\RezultateForm.cs [Design]",
+              "RelativeToolTip": "RezultateForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T10:20:18.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RezultateForm.cs",
+              "DocumentMoniker": "D:\\C# Projects\\X_SI_0\\RezultateForm.cs",
+              "RelativeDocumentMoniker": "RezultateForm.cs",
+              "ToolTip": "D:\\C# Projects\\X_SI_0\\RezultateForm.cs",
+              "RelativeToolTip": "RezultateForm.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAArwC0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T10:20:18.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "X_SI_0Form.cs [Design]",
+              "DocumentMoniker": "D:\\C# Projects\\X_SI_0\\X_SI_0Form.cs",
+              "RelativeDocumentMoniker": "X_SI_0Form.cs",
+              "ToolTip": "D:\\C# PROJECTS\\X_SI_0\\X_SI_0Form.cs [Design]",
+              "RelativeToolTip": "X_SI_0Form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T10:20:18.468Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

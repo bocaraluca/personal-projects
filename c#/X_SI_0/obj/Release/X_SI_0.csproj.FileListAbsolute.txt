@@ -1,0 +1,30 @@
+C:\Users\raluc\Desktop\C#\X_SI_0\bin\Release\X_si_0_DB.mdf
+C:\Users\raluc\Desktop\C#\X_SI_0\bin\Release\X_si_0_DB_log.ldf
+C:\Users\raluc\Desktop\C#\X_SI_0\bin\Release\X_SI_0.exe.config
+C:\Users\raluc\Desktop\C#\X_SI_0\bin\Release\X_SI_0.exe
+C:\Users\raluc\Desktop\C#\X_SI_0\bin\Release\X_SI_0.pdb
+C:\Users\raluc\Desktop\C#\X_SI_0\obj\Release\X_SI_0.csproj.AssemblyReference.cache
+C:\Users\raluc\Desktop\C#\X_SI_0\obj\Release\X_SI_0.LoginForm.resources
+C:\Users\raluc\Desktop\C#\X_SI_0\obj\Release\X_SI_0.InregistrareForm.resources
+C:\Users\raluc\Desktop\C#\X_SI_0\obj\Release\X_SI_0.Properties.Resources.resources
+C:\Users\raluc\Desktop\C#\X_SI_0\obj\Release\X_SI_0.RezultateForm.resources
+C:\Users\raluc\Desktop\C#\X_SI_0\obj\Release\X_SI_0.X_SI_0Form.resources
+C:\Users\raluc\Desktop\C#\X_SI_0\obj\Release\X_SI_0.csproj.GenerateResource.cache
+C:\Users\raluc\Desktop\C#\X_SI_0\obj\Release\X_SI_0.csproj.CoreCompileInputs.cache
+C:\Users\raluc\Desktop\C#\X_SI_0\obj\Release\X_SI_0.exe
+C:\Users\raluc\Desktop\C#\X_SI_0\obj\Release\X_SI_0.pdb
+D:\C# PROJECTS\X_SI_0\bin\Release\X_si_0_DB.mdf
+D:\C# PROJECTS\X_SI_0\bin\Release\X_si_0_DB_log.ldf
+D:\C# PROJECTS\X_SI_0\bin\Release\X_SI_0.exe.config
+D:\C# PROJECTS\X_SI_0\bin\Release\X_SI_0.exe
+D:\C# PROJECTS\X_SI_0\bin\Release\X_SI_0.pdb
+D:\C# PROJECTS\X_SI_0\obj\Release\X_SI_0.csproj.AssemblyReference.cache
+D:\C# PROJECTS\X_SI_0\obj\Release\X_SI_0.LoginForm.resources
+D:\C# PROJECTS\X_SI_0\obj\Release\X_SI_0.InregistrareForm.resources
+D:\C# PROJECTS\X_SI_0\obj\Release\X_SI_0.Properties.Resources.resources
+D:\C# PROJECTS\X_SI_0\obj\Release\X_SI_0.RezultateForm.resources
+D:\C# PROJECTS\X_SI_0\obj\Release\X_SI_0.X_SI_0Form.resources
+D:\C# PROJECTS\X_SI_0\obj\Release\X_SI_0.csproj.GenerateResource.cache
+D:\C# PROJECTS\X_SI_0\obj\Release\X_SI_0.csproj.CoreCompileInputs.cache
+D:\C# PROJECTS\X_SI_0\obj\Release\X_SI_0.exe
+D:\C# PROJECTS\X_SI_0\obj\Release\X_SI_0.pdb
