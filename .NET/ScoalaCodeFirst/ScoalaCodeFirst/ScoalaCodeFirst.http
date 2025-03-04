@@ -1,0 +1,6 @@
+@ScoalaCodeFirst_HostAddress = http://localhost:5028
+
+GET {{ScoalaCodeFirst_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

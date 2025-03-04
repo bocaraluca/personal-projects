@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASP.NET Core Web API\\ScoalaCodeFirst\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E40AD0BA-5B08-4A21-ADE4-8CA144F621F7}|ScoalaCodeFirst\\ScoalaCodeFirst.csproj|d:\\asp.net core web api\\scoalacodefirst\\scoalacodefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E40AD0BA-5B08-4A21-ADE4-8CA144F621F7}|ScoalaCodeFirst\\ScoalaCodeFirst.csproj|solutionrelative:scoalacodefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40AD0BA-5B08-4A21-ADE4-8CA144F621F7}|ScoalaCodeFirst\\ScoalaCodeFirst.csproj|d:\\asp.net core web api\\scoalacodefirst\\scoalacodefirst\\models\\scoaladbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E40AD0BA-5B08-4A21-ADE4-8CA144F621F7}|ScoalaCodeFirst\\ScoalaCodeFirst.csproj|solutionrelative:scoalacodefirst\\models\\scoaladbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40AD0BA-5B08-4A21-ADE4-8CA144F621F7}|ScoalaCodeFirst\\ScoalaCodeFirst.csproj|d:\\asp.net core web api\\scoalacodefirst\\scoalacodefirst\\models\\elev.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E40AD0BA-5B08-4A21-ADE4-8CA144F621F7}|ScoalaCodeFirst\\ScoalaCodeFirst.csproj|solutionrelative:scoalacodefirst\\models\\elev.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40AD0BA-5B08-4A21-ADE4-8CA144F621F7}|ScoalaCodeFirst\\ScoalaCodeFirst.csproj|d:\\asp.net core web api\\scoalacodefirst\\scoalacodefirst\\models\\clasa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E40AD0BA-5B08-4A21-ADE4-8CA144F621F7}|ScoalaCodeFirst\\ScoalaCodeFirst.csproj|solutionrelative:scoalacodefirst\\models\\clasa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40AD0BA-5B08-4A21-ADE4-8CA144F621F7}|ScoalaCodeFirst\\ScoalaCodeFirst.csproj|d:\\asp.net core web api\\scoalacodefirst\\scoalacodefirst\\migrations\\scoaladbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E40AD0BA-5B08-4A21-ADE4-8CA144F621F7}|ScoalaCodeFirst\\ScoalaCodeFirst.csproj|solutionrelative:scoalacodefirst\\migrations\\scoaladbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40AD0BA-5B08-4A21-ADE4-8CA144F621F7}|ScoalaCodeFirst\\ScoalaCodeFirst.csproj|d:\\asp.net core web api\\scoalacodefirst\\scoalacodefirst\\controllers\\elevicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E40AD0BA-5B08-4A21-ADE4-8CA144F621F7}|ScoalaCodeFirst\\ScoalaCodeFirst.csproj|solutionrelative:scoalacodefirst\\controllers\\elevicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40AD0BA-5B08-4A21-ADE4-8CA144F621F7}|ScoalaCodeFirst\\ScoalaCodeFirst.csproj|d:\\asp.net core web api\\scoalacodefirst\\scoalacodefirst\\controllers\\clasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E40AD0BA-5B08-4A21-ADE4-8CA144F621F7}|ScoalaCodeFirst\\ScoalaCodeFirst.csproj|solutionrelative:scoalacodefirst\\controllers\\clasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40AD0BA-5B08-4A21-ADE4-8CA144F621F7}|ScoalaCodeFirst\\ScoalaCodeFirst.csproj|d:\\asp.net core web api\\scoalacodefirst\\scoalacodefirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E40AD0BA-5B08-4A21-ADE4-8CA144F621F7}|ScoalaCodeFirst\\ScoalaCodeFirst.csproj|solutionrelative:scoalacodefirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40AD0BA-5B08-4A21-ADE4-8CA144F621F7}|ScoalaCodeFirst\\ScoalaCodeFirst.csproj|d:\\asp.net core web api\\scoalacodefirst\\scoalacodefirst\\scoalacodefirst.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E40AD0BA-5B08-4A21-ADE4-8CA144F621F7}|ScoalaCodeFirst\\ScoalaCodeFirst.csproj|solutionrelative:scoalacodefirst\\scoalacodefirst.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ScoalaDbContext.cs",
+              "DocumentMoniker": "D:\\ASP.NET Core Web API\\ScoalaCodeFirst\\ScoalaCodeFirst\\Models\\ScoalaDbContext.cs",
+              "RelativeDocumentMoniker": "ScoalaCodeFirst\\Models\\ScoalaDbContext.cs",
+              "ToolTip": "D:\\ASP.NET Core Web API\\ScoalaCodeFirst\\ScoalaCodeFirst\\Models\\ScoalaDbContext.cs",
+              "RelativeToolTip": "ScoalaCodeFirst\\Models\\ScoalaDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T19:18:43.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Elev.cs",
+              "DocumentMoniker": "D:\\ASP.NET Core Web API\\ScoalaCodeFirst\\ScoalaCodeFirst\\Models\\Elev.cs",
+              "RelativeDocumentMoniker": "ScoalaCodeFirst\\Models\\Elev.cs",
+              "ToolTip": "D:\\ASP.NET Core Web API\\ScoalaCodeFirst\\ScoalaCodeFirst\\Models\\Elev.cs",
+              "RelativeToolTip": "ScoalaCodeFirst\\Models\\Elev.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T19:18:42.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Clasa.cs",
+              "DocumentMoniker": "D:\\ASP.NET Core Web API\\ScoalaCodeFirst\\ScoalaCodeFirst\\Models\\Clasa.cs",
+              "RelativeDocumentMoniker": "ScoalaCodeFirst\\Models\\Clasa.cs",
+              "ToolTip": "D:\\ASP.NET Core Web API\\ScoalaCodeFirst\\ScoalaCodeFirst\\Models\\Clasa.cs",
+              "RelativeToolTip": "ScoalaCodeFirst\\Models\\Clasa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T19:18:41.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ScoalaDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\ASP.NET Core Web API\\ScoalaCodeFirst\\ScoalaCodeFirst\\Migrations\\ScoalaDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "ScoalaCodeFirst\\Migrations\\ScoalaDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\ASP.NET Core Web API\\ScoalaCodeFirst\\ScoalaCodeFirst\\Migrations\\ScoalaDbContextModelSnapshot.cs",
+              "RelativeToolTip": "ScoalaCodeFirst\\Migrations\\ScoalaDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T19:18:39.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EleviController.cs",
+              "DocumentMoniker": "D:\\ASP.NET Core Web API\\ScoalaCodeFirst\\ScoalaCodeFirst\\Controllers\\EleviController.cs",
+              "RelativeDocumentMoniker": "ScoalaCodeFirst\\Controllers\\EleviController.cs",
+              "ToolTip": "D:\\ASP.NET Core Web API\\ScoalaCodeFirst\\ScoalaCodeFirst\\Controllers\\EleviController.cs",
+              "RelativeToolTip": "ScoalaCodeFirst\\Controllers\\EleviController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T19:18:36.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClaseController.cs",
+              "DocumentMoniker": "D:\\ASP.NET Core Web API\\ScoalaCodeFirst\\ScoalaCodeFirst\\Controllers\\ClaseController.cs",
+              "RelativeDocumentMoniker": "ScoalaCodeFirst\\Controllers\\ClaseController.cs",
+              "ToolTip": "D:\\ASP.NET Core Web API\\ScoalaCodeFirst\\ScoalaCodeFirst\\Controllers\\ClaseController.cs",
+              "RelativeToolTip": "ScoalaCodeFirst\\Controllers\\ClaseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T19:18:35.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASP.NET Core Web API\\ScoalaCodeFirst\\ScoalaCodeFirst\\Program.cs",
+              "RelativeDocumentMoniker": "ScoalaCodeFirst\\Program.cs",
+              "ToolTip": "D:\\ASP.NET Core Web API\\ScoalaCodeFirst\\ScoalaCodeFirst\\Program.cs",
+              "RelativeToolTip": "ScoalaCodeFirst\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T19:18:30.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ASP.NET Core Web API\\ScoalaCodeFirst\\ScoalaCodeFirst\\appsettings.json",
+              "RelativeDocumentMoniker": "ScoalaCodeFirst\\appsettings.json",
+              "ToolTip": "D:\\ASP.NET Core Web API\\ScoalaCodeFirst\\ScoalaCodeFirst\\appsettings.json",
+              "RelativeToolTip": "ScoalaCodeFirst\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-04T19:18:29.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ScoalaCodeFirst",
+              "DocumentMoniker": "D:\\ASP.NET Core Web API\\ScoalaCodeFirst\\ScoalaCodeFirst\\ScoalaCodeFirst.csproj",
+              "RelativeDocumentMoniker": "ScoalaCodeFirst\\ScoalaCodeFirst.csproj",
+              "ToolTip": "D:\\ASP.NET Core Web API\\ScoalaCodeFirst\\ScoalaCodeFirst\\ScoalaCodeFirst.csproj",
+              "RelativeToolTip": "ScoalaCodeFirst\\ScoalaCodeFirst.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-04T19:18:25.31Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
