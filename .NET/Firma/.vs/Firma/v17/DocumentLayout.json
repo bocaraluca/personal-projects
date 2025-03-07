@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASP.NET Core Web API\\Firma\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F807015B-E178-4BA1-8716-6A5E7E66DEB7}|Firma\\Firma.csproj|d:\\asp.net core web api\\firma\\firma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F807015B-E178-4BA1-8716-6A5E7E66DEB7}|Firma\\Firma.csproj|solutionrelative:firma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F807015B-E178-4BA1-8716-6A5E7E66DEB7}|Firma\\Firma.csproj|d:\\asp.net core web api\\firma\\firma\\controllers\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F807015B-E178-4BA1-8716-6A5E7E66DEB7}|Firma\\Firma.csproj|solutionrelative:firma\\controllers\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F807015B-E178-4BA1-8716-6A5E7E66DEB7}|Firma\\Firma.csproj|d:\\asp.net core web api\\firma\\firma\\models\\firmadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F807015B-E178-4BA1-8716-6A5E7E66DEB7}|Firma\\Firma.csproj|solutionrelative:firma\\models\\firmadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F807015B-E178-4BA1-8716-6A5E7E66DEB7}|Firma\\Firma.csproj|d:\\asp.net core web api\\firma\\firma\\models\\angajat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F807015B-E178-4BA1-8716-6A5E7E66DEB7}|Firma\\Firma.csproj|solutionrelative:firma\\models\\angajat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F807015B-E178-4BA1-8716-6A5E7E66DEB7}|Firma\\Firma.csproj|d:\\asp.net core web api\\firma\\firma\\controllers\\angajaticontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F807015B-E178-4BA1-8716-6A5E7E66DEB7}|Firma\\Firma.csproj|solutionrelative:firma\\controllers\\angajaticontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F807015B-E178-4BA1-8716-6A5E7E66DEB7}|Firma\\Firma.csproj|d:\\asp.net core web api\\firma\\firma\\firma.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F807015B-E178-4BA1-8716-6A5E7E66DEB7}|Firma\\Firma.csproj|solutionrelative:firma\\firma.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F807015B-E178-4BA1-8716-6A5E7E66DEB7}|Firma\\Firma.csproj|d:\\asp.net core web api\\firma\\firma\\migrations\\20240130172153_unu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F807015B-E178-4BA1-8716-6A5E7E66DEB7}|Firma\\Firma.csproj|solutionrelative:firma\\migrations\\20240130172153_unu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Firma.csproj",
+              "DocumentMoniker": "D:\\ASP.NET Core Web API\\Firma\\Firma\\Firma.csproj",
+              "RelativeDocumentMoniker": "Firma\\Firma.csproj",
+              "ToolTip": "D:\\ASP.NET Core Web API\\Firma\\Firma\\Firma.csproj",
+              "RelativeToolTip": "Firma\\Firma.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-07T15:47:37.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AngajatiController.cs",
+              "DocumentMoniker": "D:\\ASP.NET Core Web API\\Firma\\Firma\\Controllers\\AngajatiController.cs",
+              "RelativeDocumentMoniker": "Firma\\Controllers\\AngajatiController.cs",
+              "ToolTip": "D:\\ASP.NET Core Web API\\Firma\\Firma\\Controllers\\AngajatiController.cs",
+              "RelativeToolTip": "Firma\\Controllers\\AngajatiController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T15:47:38.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240130172153_unu.cs",
+              "DocumentMoniker": "D:\\ASP.NET Core Web API\\Firma\\Firma\\Migrations\\20240130172153_unu.cs",
+              "RelativeDocumentMoniker": "Firma\\Migrations\\20240130172153_unu.cs",
+              "ToolTip": "D:\\ASP.NET Core Web API\\Firma\\Firma\\Migrations\\20240130172153_unu.cs",
+              "RelativeToolTip": "Firma\\Migrations\\20240130172153_unu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T15:47:38.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Angajat.cs",
+              "DocumentMoniker": "D:\\ASP.NET Core Web API\\Firma\\Firma\\Models\\Angajat.cs",
+              "RelativeDocumentMoniker": "Firma\\Models\\Angajat.cs",
+              "ToolTip": "D:\\ASP.NET Core Web API\\Firma\\Firma\\Models\\Angajat.cs",
+              "RelativeToolTip": "Firma\\Models\\Angajat.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T15:47:38.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FirmaDbContext.cs",
+              "DocumentMoniker": "D:\\ASP.NET Core Web API\\Firma\\Firma\\Models\\FirmaDbContext.cs",
+              "RelativeDocumentMoniker": "Firma\\Models\\FirmaDbContext.cs",
+              "ToolTip": "D:\\ASP.NET Core Web API\\Firma\\Firma\\Models\\FirmaDbContext.cs",
+              "RelativeToolTip": "Firma\\Models\\FirmaDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T15:47:38.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ASP.NET Core Web API\\Firma\\Firma\\Controllers\\appsettings.json",
+              "RelativeDocumentMoniker": "Firma\\Controllers\\appsettings.json",
+              "ToolTip": "D:\\ASP.NET Core Web API\\Firma\\Firma\\Controllers\\appsettings.json",
+              "RelativeToolTip": "Firma\\Controllers\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-07T15:47:38.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASP.NET Core Web API\\Firma\\Firma\\Program.cs",
+              "RelativeDocumentMoniker": "Firma\\Program.cs",
+              "ToolTip": "D:\\ASP.NET Core Web API\\Firma\\Firma\\Program.cs",
+              "RelativeToolTip": "Firma\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T15:47:38.093Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

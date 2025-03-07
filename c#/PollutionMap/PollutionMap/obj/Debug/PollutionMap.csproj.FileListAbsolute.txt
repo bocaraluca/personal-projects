@@ -1,0 +1,77 @@
+C:\Users\Profesor\Desktop\tabara\Ziua5\PollutionMap\PollutionMap\bin\Debug\PollutionMap.exe.config
+C:\Users\Profesor\Desktop\tabara\Ziua5\PollutionMap\PollutionMap\bin\Debug\PollutionMap.exe
+C:\Users\Profesor\Desktop\tabara\Ziua5\PollutionMap\PollutionMap\bin\Debug\PollutionMap.pdb
+C:\Users\Profesor\Desktop\tabara\Ziua5\PollutionMap\PollutionMap\obj\Debug\PollutionMap.csproj.AssemblyReference.cache
+C:\Users\Profesor\Desktop\tabara\Ziua5\PollutionMap\PollutionMap\obj\Debug\PollutionMap.csproj.SuggestedBindingRedirects.cache
+C:\Users\Profesor\Desktop\tabara\Ziua5\PollutionMap\PollutionMap\obj\Debug\PollutionMap.AutentificareForm.resources
+C:\Users\Profesor\Desktop\tabara\Ziua5\PollutionMap\PollutionMap\obj\Debug\PollutionMap.Properties.Resources.resources
+C:\Users\Profesor\Desktop\tabara\Ziua5\PollutionMap\PollutionMap\obj\Debug\PollutionMap.csproj.GenerateResource.cache
+C:\Users\Profesor\Desktop\tabara\Ziua5\PollutionMap\PollutionMap\obj\Debug\PollutionMap.csproj.CoreCompileInputs.cache
+C:\Users\Profesor\Desktop\tabara\Ziua5\PollutionMap\PollutionMap\obj\Debug\PollutionMap.exe
+C:\Users\Profesor\Desktop\tabara\Ziua5\PollutionMap\PollutionMap\obj\Debug\PollutionMap.pdb
+C:\Users\Profesor\Desktop\tabara\Ziua5\PollutionMap\PollutionMap\bin\Debug\PoluareDB.mdf
+C:\Users\Profesor\Desktop\tabara\Ziua5\PollutionMap\PollutionMap\bin\Debug\PoluareDB_log.ldf
+C:\Users\Profesor\Desktop\tabara\Ziua5\PollutionMap\PollutionMap\obj\Debug\PollutionMap.InregistrareForm.resources
+C:\Users\Profesor\Desktop\tabara\Ziua5\PollutionMap\PollutionMap\obj\Debug\PollutionMap.VizualizareForm.resources
+C:\Users\Profesor\Desktop\tabara\Ziua6\PollutionMap\PollutionMap\obj\Debug\PollutionMap.csproj.AssemblyReference.cache
+C:\Users\Profesor\Desktop\tabara\Ziua6\PollutionMap\PollutionMap\obj\Debug\PollutionMap.csproj.SuggestedBindingRedirects.cache
+C:\Users\Profesor\Desktop\tabara\Ziua6\PollutionMap\PollutionMap\obj\Debug\PollutionMap.AutentificareForm.resources
+C:\Users\Profesor\Desktop\tabara\Ziua6\PollutionMap\PollutionMap\obj\Debug\PollutionMap.InregistrareForm.resources
+C:\Users\Profesor\Desktop\tabara\Ziua6\PollutionMap\PollutionMap\obj\Debug\PollutionMap.Properties.Resources.resources
+C:\Users\Profesor\Desktop\tabara\Ziua6\PollutionMap\PollutionMap\obj\Debug\PollutionMap.VizualizareForm.resources
+C:\Users\Profesor\Desktop\tabara\Ziua6\PollutionMap\PollutionMap\obj\Debug\PollutionMap.csproj.GenerateResource.cache
+C:\Users\Profesor\Desktop\tabara\Ziua6\PollutionMap\PollutionMap\obj\Debug\PollutionMap.csproj.CoreCompileInputs.cache
+C:\Users\Profesor\Desktop\tabara\Ziua6\PollutionMap\PollutionMap\obj\Debug\PollutionMap.exe
+C:\Users\Profesor\Desktop\tabara\Ziua6\PollutionMap\PollutionMap\obj\Debug\PollutionMap.pdb
+C:\Users\Profesor\Desktop\tabara\Ziua6\PollutionMap\PollutionMap\bin\Debug\PoluareDB.mdf
+C:\Users\Profesor\Desktop\tabara\Ziua6\PollutionMap\PollutionMap\bin\Debug\PoluareDB_log.ldf
+C:\Users\Profesor\Desktop\tabara\Ziua6\PollutionMap\PollutionMap\bin\Debug\PollutionMap.exe.config
+C:\Users\Profesor\Desktop\tabara\Ziua6\PollutionMap\PollutionMap\bin\Debug\PollutionMap.exe
+C:\Users\Profesor\Desktop\tabara\Ziua6\PollutionMap\PollutionMap\bin\Debug\PollutionMap.pdb
+C:\Users\Profesor\Desktop\tabara\Ziua6\PollutionMap\PollutionMap\obj\Debug\PollutionMap.AdaugaMasurareForm.resources
+C:\Users\xPC\Downloads\Tabara_C#_2023\Ziua6\PollutionMap\PollutionMap\bin\Debug\PoluareDB.mdf
+C:\Users\xPC\Downloads\Tabara_C#_2023\Ziua6\PollutionMap\PollutionMap\bin\Debug\PoluareDB_log.ldf
+C:\Users\xPC\Downloads\Tabara_C#_2023\Ziua6\PollutionMap\PollutionMap\bin\Debug\PollutionMap.exe.config
+C:\Users\xPC\Downloads\Tabara_C#_2023\Ziua6\PollutionMap\PollutionMap\bin\Debug\PollutionMap.exe
+C:\Users\xPC\Downloads\Tabara_C#_2023\Ziua6\PollutionMap\PollutionMap\bin\Debug\PollutionMap.pdb
+C:\Users\xPC\Downloads\Tabara_C#_2023\Ziua6\PollutionMap\PollutionMap\obj\Debug\PollutionMap.csproj.AssemblyReference.cache
+C:\Users\xPC\Downloads\Tabara_C#_2023\Ziua6\PollutionMap\PollutionMap\obj\Debug\PollutionMap.csproj.SuggestedBindingRedirects.cache
+C:\Users\xPC\Downloads\Tabara_C#_2023\Ziua6\PollutionMap\PollutionMap\obj\Debug\PollutionMap.AdaugaMasurareForm.resources
+C:\Users\xPC\Downloads\Tabara_C#_2023\Ziua6\PollutionMap\PollutionMap\obj\Debug\PollutionMap.AutentificareForm.resources
+C:\Users\xPC\Downloads\Tabara_C#_2023\Ziua6\PollutionMap\PollutionMap\obj\Debug\PollutionMap.InregistrareForm.resources
+C:\Users\xPC\Downloads\Tabara_C#_2023\Ziua6\PollutionMap\PollutionMap\obj\Debug\PollutionMap.Properties.Resources.resources
+C:\Users\xPC\Downloads\Tabara_C#_2023\Ziua6\PollutionMap\PollutionMap\obj\Debug\PollutionMap.VizualizareForm.resources
+C:\Users\xPC\Downloads\Tabara_C#_2023\Ziua6\PollutionMap\PollutionMap\obj\Debug\PollutionMap.csproj.GenerateResource.cache
+C:\Users\xPC\Downloads\Tabara_C#_2023\Ziua6\PollutionMap\PollutionMap\obj\Debug\PollutionMap.csproj.CoreCompileInputs.cache
+C:\Users\xPC\Downloads\Tabara_C#_2023\Ziua6\PollutionMap\PollutionMap\obj\Debug\PollutionMap.exe
+C:\Users\xPC\Downloads\Tabara_C#_2023\Ziua6\PollutionMap\PollutionMap\obj\Debug\PollutionMap.pdb
+C:\Users\raluc\Desktop\Tabara_C#_2023\Ziua6\PollutionMap\PollutionMap\bin\Debug\PoluareDB.mdf
+C:\Users\raluc\Desktop\Tabara_C#_2023\Ziua6\PollutionMap\PollutionMap\bin\Debug\PoluareDB_log.ldf
+C:\Users\raluc\Desktop\Tabara_C#_2023\Ziua6\PollutionMap\PollutionMap\bin\Debug\PollutionMap.exe.config
+C:\Users\raluc\Desktop\Tabara_C#_2023\Ziua6\PollutionMap\PollutionMap\bin\Debug\PollutionMap.exe
+C:\Users\raluc\Desktop\Tabara_C#_2023\Ziua6\PollutionMap\PollutionMap\bin\Debug\PollutionMap.pdb
+C:\Users\raluc\Desktop\Tabara_C#_2023\Ziua6\PollutionMap\PollutionMap\obj\Debug\PollutionMap.csproj.AssemblyReference.cache
+C:\Users\raluc\Desktop\Tabara_C#_2023\Ziua6\PollutionMap\PollutionMap\obj\Debug\PollutionMap.AdaugaMasurareForm.resources
+C:\Users\raluc\Desktop\Tabara_C#_2023\Ziua6\PollutionMap\PollutionMap\obj\Debug\PollutionMap.AutentificareForm.resources
+C:\Users\raluc\Desktop\Tabara_C#_2023\Ziua6\PollutionMap\PollutionMap\obj\Debug\PollutionMap.InregistrareForm.resources
+C:\Users\raluc\Desktop\Tabara_C#_2023\Ziua6\PollutionMap\PollutionMap\obj\Debug\PollutionMap.Properties.Resources.resources
+C:\Users\raluc\Desktop\Tabara_C#_2023\Ziua6\PollutionMap\PollutionMap\obj\Debug\PollutionMap.VizualizareForm.resources
+C:\Users\raluc\Desktop\Tabara_C#_2023\Ziua6\PollutionMap\PollutionMap\obj\Debug\PollutionMap.csproj.GenerateResource.cache
+C:\Users\raluc\Desktop\Tabara_C#_2023\Ziua6\PollutionMap\PollutionMap\obj\Debug\PollutionMap.csproj.CoreCompileInputs.cache
+C:\Users\raluc\Desktop\Tabara_C#_2023\Ziua6\PollutionMap\PollutionMap\obj\Debug\PollutionMap.exe
+C:\Users\raluc\Desktop\Tabara_C#_2023\Ziua6\PollutionMap\PollutionMap\obj\Debug\PollutionMap.pdb
+D:\C# Tabara\Ziua6\PollutionMap\PollutionMap\bin\Debug\PoluareDB.mdf
+D:\C# Tabara\Ziua6\PollutionMap\PollutionMap\bin\Debug\PoluareDB_log.ldf
+D:\C# Tabara\Ziua6\PollutionMap\PollutionMap\bin\Debug\PollutionMap.exe.config
+D:\C# Tabara\Ziua6\PollutionMap\PollutionMap\bin\Debug\PollutionMap.exe
+D:\C# Tabara\Ziua6\PollutionMap\PollutionMap\bin\Debug\PollutionMap.pdb
+D:\C# Tabara\Ziua6\PollutionMap\PollutionMap\obj\Debug\PollutionMap.csproj.AssemblyReference.cache
+D:\C# Tabara\Ziua6\PollutionMap\PollutionMap\obj\Debug\PollutionMap.AdaugaMasurareForm.resources
+D:\C# Tabara\Ziua6\PollutionMap\PollutionMap\obj\Debug\PollutionMap.AutentificareForm.resources
+D:\C# Tabara\Ziua6\PollutionMap\PollutionMap\obj\Debug\PollutionMap.InregistrareForm.resources
+D:\C# Tabara\Ziua6\PollutionMap\PollutionMap\obj\Debug\PollutionMap.Properties.Resources.resources
+D:\C# Tabara\Ziua6\PollutionMap\PollutionMap\obj\Debug\PollutionMap.VizualizareForm.resources
+D:\C# Tabara\Ziua6\PollutionMap\PollutionMap\obj\Debug\PollutionMap.csproj.GenerateResource.cache
+D:\C# Tabara\Ziua6\PollutionMap\PollutionMap\obj\Debug\PollutionMap.csproj.CoreCompileInputs.cache
+D:\C# Tabara\Ziua6\PollutionMap\PollutionMap\obj\Debug\PollutionMap.exe
+D:\C# Tabara\Ziua6\PollutionMap\PollutionMap\obj\Debug\PollutionMap.pdb
